@@ -1,1 +1,27 @@
-
+body {
+    background-color: black;
+  }
+  
+  h1 {
+    color: white;
+    font-size: 20px
+  }
+  
+  p {
+    color: lightgray;
+    font-size: 12px;
+  }
+  
+  .myDiv {
+    border: 2px dotted white;
+    text-align: left;
+    width: 100px; height: 100px;
+  }
+  
+  ol {
+    color: white
+  }
+  
+  ul {
+    color: white;
+  }
